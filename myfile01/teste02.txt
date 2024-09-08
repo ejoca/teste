@@ -1,1 +1,2 @@
 teste02.txt criada do repositorio remoto
+Linha 2 do Teste 01
